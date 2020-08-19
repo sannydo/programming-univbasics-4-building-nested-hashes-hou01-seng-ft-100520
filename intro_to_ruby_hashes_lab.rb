@@ -28,7 +28,7 @@ def monopoly_with_third_tier
    
     } pennsylvania_railroad 
     
-     } b_and_o_railroad 
+     { b_and_o_railroad 
    
      :shortline_railroad 
   end
@@ -43,14 +43,14 @@ def monopoly_with_fourth_tier
      two_pieced_owned: "50",
      three_pieces_owned: "100",
      four_pieces_owned: "200"
-    
+ }
    :names 
    {
      :reading_railroad  =>
     
      :mortgage_value [$100]
      
-     } pennsylvania_railroad 
+     { pennsylvania_railroad 
       
      :mortgage_value [$200]
      
