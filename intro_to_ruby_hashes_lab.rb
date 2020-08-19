@@ -46,7 +46,7 @@ def monopoly_with_fourth_tier
       :two_piece_owned=>50,
       :three_piece_owned=>100,
       :four_pieced_owned=> 200
-    },
+    }
     :names=>
     {
       :reading_railroad=>
